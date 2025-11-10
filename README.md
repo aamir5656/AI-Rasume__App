@@ -79,7 +79,7 @@ An interactive web app has been created using **Streamlit**, allowing recruiters
 - Instantly view AI-based predictions.
 - Explore insights through dynamic visualizations.
 
-🔗 **App Link:** [Click Here to Open the App](https://your-streamlit-app-link.com)  
+🔗 **App Link:** [Click Here to Open the App](https://ai-rasumeapp-afncxh4fnqcgjmytbujfh2.streamlit.app/)  
 *(Replace the above link with your deployed Streamlit app URL.)*
 
 ---
@@ -128,5 +128,5 @@ You are free to use, modify, and distribute it with proper attribution.
 
 ### ✨ Author
 **Aamir Shahzad**  
-📧 [Your Email Here]  
+📧 [aamirjee44556@gmail.com]  
 💼 [GitHub Profile](https://github.com/aamir5656)
