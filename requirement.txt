@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+scipy
+joblib
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> c9adf54 (Update requirement.txt with joblib)
